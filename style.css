@@ -16,7 +16,7 @@ header {
     background-position: center;
 }
 
-.section {
+section {
     width: 100%;
     display: flex;
 }
@@ -95,7 +95,7 @@ article {
 }
 
 
-.section::after {
+section::after {
     content: "";
     display: table;
     clear: both;
