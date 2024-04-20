@@ -16,6 +16,10 @@ header {
     background-position: center;
 }
 
+header h1 {
+    -webkit-text-stroke: 2px black;
+}
+
 .section {
     width: 100%;
     display: flex;
